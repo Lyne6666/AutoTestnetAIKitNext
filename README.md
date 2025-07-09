@@ -1,2 +1,1 @@
-# AutoTestnetAIKitNext
-Advanced AutoTestnetAIKitNext project
+.
